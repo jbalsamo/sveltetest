@@ -3,7 +3,7 @@
 </script>
 
 <header>
-    <h1>Welcome to {comp}</h1>
+    <h1>{comp}</h1>
     <hr> 
 </header>
 
@@ -16,7 +16,7 @@
 	}
 
     h1 {
-		color: #00ff00;
+		color: #2662d3;
 		text-transform: uppercase;
 		font-size: 5em;
 		font-weight: 100;
